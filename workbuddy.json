@@ -1,0 +1,6 @@
+{
+  "display_name": "易班考试",
+  "display_name_en": "Yiban Exam",
+  "description_zh": "依据学生手册等本地资料，自动完成优课／易班在线考试（exam.yooc.me）网页上的选择题，逐题标注资料条款依据并全量复验；只作答，不代交卷。",
+  "description_en": "Auto-answer multiple-choice questions in Yooc / Yiban online exams from your local reference docs, cite the source clause for every answer, and verify the whole paper. Fills answers only - never submits."
+}
